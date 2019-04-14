@@ -47,3 +47,25 @@ Instead of entrepreneurs, let’s just call them starters. Anyone who creates a 
 ## Chapter: GO
 
 ### Make a dense in the universe
+
+**_If you're going to do something, do something that matters_**
+
+To do great work, you need to feel that you’re making a difference. That you’re putting a meaningful dent in the universe. That you’re part of something important.
+
+It’s just that your efforts need to feel valuable. You want your customers to say, “This makes my life better.” You want to feel that if you stopped doing what you do, people would notice.
+
+### Scratch your own itch
+
+**_The easiest, most straightforward way to create a great product or service is to make something you want to use. That lets you design what you know—and you’ll figure out immediately whether or not what you’re making is any good._**
+
+These people scratched their own itch and exposed a huge market of people who needed exactly what they needed. That’s how you should do it too.
+
+When you build what you need, you can also assess the quality of what you make quickly and directly, instead of by proxy.
+
+### Start
+
+**_Until you actually start making something, your brilliant idea is just that, an idea_**
+
+We all have that one friend who says, “I had the idea for eBay. If only I had acted on it, I’d be a billionaire!” That logic is pathetic and delusional. Having the idea for eBay has nothing to do with actually creating eBay. What you do is what matters, not what you think or say or plan.
+
+Ideas are cheap and plentiful. The original pitch idea is such a small part of a business that it’s almost negligible. The real question is how well you execute.
