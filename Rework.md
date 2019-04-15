@@ -69,3 +69,25 @@ When you build what you need, you can also assess the quality of what you make q
 We all have that one friend who says, “I had the idea for eBay. If only I had acted on it, I’d be a billionaire!” That logic is pathetic and delusional. Having the idea for eBay has nothing to do with actually creating eBay. What you do is what matters, not what you think or say or plan.
 
 Ideas are cheap and plentiful. The original pitch idea is such a small part of a business that it’s almost negligible. The real question is how well you execute.
+
+### Execute notane
+
+**_No time is no excuse_**
+
+The most common excuse people give: “There’s not enough time". There’s always enough time if you spend it right.
+
+### Draw a line in the sand
+
+**_As you get going, keep in mind why you’re doing what you’re doing_**
+
+Strong opinions aren’t free. You’ll turn some people off. They’ll accuse you of being arrogant and aloof. That’s life. For everyone who loves you, there will be others who hate you. If no one’s upset by what you’re saying, you’re probably not pushing hard enough.
+
+We’re willing to lose some customers if it means that others love our products intensely.
+
+### Live it or leave it
+
+**_Standing for something isn’t just about writing it down. It’s about believing it and living it._**
+
+There’s a world of difference between truly standing for something and having a mission statement that says you stand for something
+
+### Plan Z
