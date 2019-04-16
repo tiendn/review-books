@@ -91,3 +91,65 @@ We’re willing to lose some customers if it means that others love our products
 There’s a world of difference between truly standing for something and having a mission statement that says you stand for something
 
 ### Plan Z
+
+**_Outside money is Plan Z_**
+
+Spending other people’s money may sound great, but there’s a noose attached. Here’s why:”
+
+> **You give up control**. When you turn to outsiders for funding, you have to answer to them too. That’s fine at first, when everyone agrees. But what happens down the road? Are you starting your own business to take orders from someone else? Raise money and that’s what you’ll wind up doing.
+
+> **“Cashing out” begins to trump building a quality business.** Investors want their money back—and quickly (usually three to five years). Long-term sustainability goes out the window when those involved only want to cash out as soon as they can.
+
+> **Spending other people’s money is addictive.** There’s nothing easier than spending other people’s money. But then you run out and need to go back for more. And every time you go back, they take more of your company.
+
+> **It’s usually a bad deal.** When you’re just beginning, you have no leverage. That’s a terrible time to enter into any financial transaction.
+
+> **Customers move down the totem pole.** You wind up building what investors want instead of what customers want.
+
+> **Raising money is incredibly distracting.** Seeking funding is difficult and draining. It takes months of pitch meetings, legal maneuvering, contracts, etc. That’s an enormous distraction when you should really be focused on building something great.
+
+Before you stick your head in that noose, look for another way.
+
+### Do you really need?
+
+**_You need less than you think_**
+
+Do you really need ten people or will two or three do for now?
+
+Do you really need $500,000 or is $50,000 (or \$5,000) enough for now?
+
+Do you really need six months or can you make something in two?
+
+Do you really need a big office or can you share office space (or work from home) for a while?
+
+Do you really need to buy advertising and hire a PR firm or are there other ways to get noticed?
+
+Do you really need to build a factory or can you hire someone else to manufacture your products?
+
+Do you really need an accountant or can you use Quicken and do it yourself?
+
+Do you really need an IT department or can you outsource it?
+
+Do you really need a full-time support person or can you handle inquiries on your own?
+
+Do you really need to open a retail store or can you sell your product online?
+
+Do you really need fancy business cards, letterhead, and brochures or can you forego that stuff?
+
+> You get the point. Maybe eventually you’ll need to go the bigger, more expensive route, but not right now.
+
+> You get the point. Maybe eventually you’ll need to go the bigger, more expensive route, but not right now.
+
+### Startup
+
+**_Start a business, not a startup_**
+
+The start up is a magical place. It’s a place where expenses are someone else’s problem. It’s a place where that pesky thing called revenue is never an issue. It’s a place where you can spend other people’s money until you figure out a way to make your own. It’s a place where the laws of business physics don’t apply.
+
+The problem with this magical place is it’s a fairy tale. The truth is every business, new or old, is governed by the same set of market forces and economic rules. Revenue in, expenses out. Turn a profit or wind up gone.
+
+A business without a path to profit isn’t a business, it’s a hobby.
+
+So don’t use the idea of a startup as a crutch. Instead, start an actual business.
+
+Actual businesses have to deal with actual things like bills and payroll. Actual businesses worry about profit from day one. Actual businesses don’t mask deep problems by saying, “It’s OK, we’re a startup.” Act like an actual business and you’ll have a much better shot at succeeding.”
