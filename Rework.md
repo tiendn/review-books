@@ -153,3 +153,37 @@ A business without a path to profit isn’t a business, it’s a hobby.
 So don’t use the idea of a startup as a crutch. Instead, start an actual business.
 
 Actual businesses have to deal with actual things like bills and payroll. Actual businesses worry about profit from day one. Actual businesses don’t mask deep problems by saying, “It’s OK, we’re a startup.” Act like an actual business and you’ll have a much better shot at succeeding.”
+
+### You need a commitment strategy not an exit strategy
+
+Another thing you hear a lot: “What’s your exit strategy?” You hear it even when you’re just beginning. What is it with people who can’t even start building something without knowing how they’re going to leave it? What’s the hurry? Your priorities are out of whack if you’re thinking about getting out before you even dive in.
+
+You need a commitment strategy, not an exit strategy. You should be thinking about how to make your project grow and succeed, not how you’re going to jump ship. If your whole strategy is based on leaving, chances are you won’t get far in the first place.
+
+### Lease - Long term contracts - Inventory - Meetings
+
+**_Embrace the idea of having less mass. Right now, you’re the smallest, the leanest, and the fastest you’ll ever be_**
+
+-   Long-term contracts
+-   Excess staff
+-   Permanent decisions
+-   Meetings
+-   Thick process
+-   Inventory (physical or mental)
+-   Hardware, software, and technology lock-ins
+-   Long-term road maps
+-   Office politics
+
+Avoid these things whenever you can. That way, you’ll be able to change direction easily. The more expensive it is to make a change, the less likely you are to make it.
+
+Huge organizations can take years to pivot. They talk instead of act. They meet instead of do. But if you keep your mass low, you can quickly change anything: your entire business model, product, feature set, and/or marketing message. You can make mistakes and fix them quickly. You can change your priorities, product mix, or focus. And most important, you can change your mind.
+
+## Chapter Progress
+
+### Less is the good thing
+
+**_Embrace constraints_**
+
+I don’t have enough time/money/people/experience.” Stop whining. Less is a good thing. Constraints are advantages in disguise. Limited resources force you to make do with what you’ve got. There’s no room for waste. And that forces you to be creative.
+
+So before you sing the “not enough” blues, see how far you can get with what you have
