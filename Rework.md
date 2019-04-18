@@ -187,3 +187,27 @@ Huge organizations can take years to pivot. They talk instead of act. They meet 
 I don’t have enough time/money/people/experience.” Stop whining. Less is a good thing. Constraints are advantages in disguise. Limited resources force you to make do with what you’ve got. There’s no room for waste. And that forces you to be creative.
 
 So before you sing the “not enough” blues, see how far you can get with what you have
+
+### You're better off with a kick-ass half than a half-assed whole
+
+**_Build half a product, not a half-assed product_**
+
+You can turn a bunch of great ideas into a crappy product real fast by trying to do them all at once. You just can’t do everything you want to do and do it well. You have limited time, resources, ability, and focus. It’s hard enough to do one thing right. Trying to do ten things well at the same time? Forget about it.
+
+### Start
+
+**_Start at the epicenter_**
+
+When you start anything new, there are forces pulling you in a variety of directions. There’s the stuff you could do, the stuff you want to do, and the stuff you have to do. The stuff you have to do is where you should begin. Start at the epicenter.
+
+The way to find the epicenter is to ask yourself this question: “If I took this away, would what I’m selling still exist?
+
+### Basics
+
+**_Ignore the details early on_**
+
+Architects don’t worry about which tiles go in the shower or which brand of dishwasher to install in the kitchen until after the floor plan is finalized. They know it’s better to decide these details later.
+
+You need to approach your idea the same way. Details make the difference. But getting infatuated with details too early leads to disagreement, meetings, and delays. You get lost in things that don’t really matter. You waste time on decisions that are going to change anyway. So ignore the details—for a while. Nail the basics first and worry about the specifics later.
+
+
