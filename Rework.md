@@ -210,4 +210,21 @@ Architects don’t worry about which tiles go in the shower or which brand of di
 
 You need to approach your idea the same way. Details make the difference. But getting infatuated with details too early leads to disagreement, meetings, and delays. You get lost in things that don’t really matter. You waste time on decisions that are going to change anyway. So ignore the details—for a while. Nail the basics first and worry about the specifics later.
 
+### Decisions are progress
 
+**_Making the call is making progress_**
+
+Don’t wait for the perfect solution. Decide and move forward.
+
+
+### Creation
+
+**_Be a curator_**
+
+...
+
+### ...
+
+**_Throw less at the problem_**
+
+Do less. Your project won’t suffer nearly as much as you fear. In fact, there’s a good chance it’ll end up even better. You’ll be forced to make tough calls and sort out what truly matters.
