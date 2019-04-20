@@ -228,3 +228,34 @@ Don’t wait for the perfect solution. Decide and move forward.
 **_Throw less at the problem_**
 
 Do less. Your project won’t suffer nearly as much as you fear. In fact, there’s a good chance it’ll end up even better. You’ll be forced to make tough calls and sort out what truly matters.
+
+
+### Focus on what won't change
+
+**_Focus on what won't change_**
+
+A lot of companies focus on the next big thing. They latch on to what’s hot and new. They follow the latest trends and technology.
+
+That’s a fool’s path.”
+
+
+The core of your business should be built around things that won’t change. Things that people are going to want today and ten years from now. Those are the things you should invest in.
+
+Remember, fashion fades away. When you focus on permanent features, you’re in bed with things that never go out of style.
+
+
+### Gear doesn't matter
+
+**_Tone is in your fingers_**
+
+In business, too many people obsess over tools, software tricks, scaling issues, fancy office space, lavish furniture, and other frivolities instead of what really matters. And what really matters is how to actually get customers and make money.
+
+You also see it in people who want to blog, podcast, or shoot videos for their business but get hung up on which tools to use. The content is what matters. You can spend tons on fancy equipment, but if you’ve got nothing to say … well, you’ve got nothing to say.
+
+Use whatever you’ve got already or can afford cheaply. Then go. It’s not the gear that matters. It’s playing what you’ve got as well as you can. Your tone is in your fingers.
+
+### You can't make just one thing.
+
+**_Sell your by-products_**
+
+When you make something, you always make something else. You can’t make just one thing. Everything has a by-product. Observant and creative business minds spot these by-products and see opportunities.
