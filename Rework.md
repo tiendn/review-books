@@ -216,7 +216,6 @@ You need to approach your idea the same way. Details make the difference. But ge
 
 Don’t wait for the perfect solution. Decide and move forward.
 
-
 ### Creation
 
 **_Be a curator_**
@@ -229,7 +228,6 @@ Don’t wait for the perfect solution. Decide and move forward.
 
 Do less. Your project won’t suffer nearly as much as you fear. In fact, there’s a good chance it’ll end up even better. You’ll be forced to make tough calls and sort out what truly matters.
 
-
 ### Focus on what won't change
 
 **_Focus on what won't change_**
@@ -238,11 +236,9 @@ A lot of companies focus on the next big thing. They latch on to what’s hot an
 
 That’s a fool’s path.”
 
-
 The core of your business should be built around things that won’t change. Things that people are going to want today and ten years from now. Those are the things you should invest in.
 
 Remember, fashion fades away. When you focus on permanent features, you’re in bed with things that never go out of style.
-
 
 ### Gear doesn't matter
 
@@ -259,3 +255,41 @@ Use whatever you’ve got already or can afford cheaply. Then go. It’s not the
 **_Sell your by-products_**
 
 When you make something, you always make something else. You can’t make just one thing. Everything has a by-product. Observant and creative business minds spot these by-products and see opportunities.
+
+### Get it out there
+
+**_Launch now_**
+
+When is your product or service finished? When should you put it out on the market? When is it safe to let people have it? Probably a lot sooner than you’re comfortable with. Once your product does what it needs to do, get it out there.
+
+## Chapter: Productivity
+
+### Get Real
+
+**_Illusions of agreement_**
+
+The business world is littered with dead documents that do nothing but waste people’s time. Reports no one reads, diagrams no one looks at, and specs that never resemble the finished product. These things take forever to make but only seconds to forget.
+If you need to explain something, try getting real with it. Instead of describing what something looks like, draw it. Instead of explaining what something sounds like, hum it. Do everything you can to remove layers of abstraction.
+
+### Question
+
+**_Reasons to quit_**
+
+It’s easy to put your head down and just work on what you think needs to be done. It’s a lot harder to pull your head up and ask why. Here are some important questions to ask yourself to ensure you’re doing work that matters:
+
+> **Why are you doing this?** Ever find yourself working on something without knowing exactly why? Someone just told you to do it. It’s pretty common, actually. That’s why it’s important to ask why you’reworking on**\_\_**. What is this for? Who benefits? What’s the motivation behind it? Knowing the answers to these questions will help you better understand the work itself.
+
+> **What problem are you solving?** What’s the problem? Are customers confused? Are you confused? Is something not clear enough? Was something not possible before that should be possible now? Sometimes when you ask these questions, you’ll find you’re solving an imaginary problem. That’s when it’s time to stop and reevaluate what the hell you’re doing.
+
+> **Is this actually useful?** Are you making something useful or just making something? It’s easy to confuse enthusiasm with usefulness. Sometimes it’s fine to play a bit and build something cool. But eventually you’ve got to stop and ask yourself if it’s useful, too. Cool wears off. Useful never does.
+
+> **Are you adding value?** Adding something is easy; adding value is hard. Is this thing you’re working on actually making your product more valuable for customers? Can they get more out of it than they did before? Sometimes things you think are adding value actually subtract from it. Too much ketchup can ruin the fries. Value is about balance.
+> Will this change behavior? Is what you’re working on really going to change anything? Don’t add something unless it has a real impact on how people use your product.
+
+> **Is there an easier way?** Whenever you’re working on something, ask, “Is there an easier way?” You’ll often find this easy way is more than good enough for now. Problems are usually pretty simple. We just imagine that they require hard solutions.
+> What could you be doing instead? What can’t you do because you’re doing this? This is especially important for small teams with constrained resources. That’s when prioritization is even more important. If you work on A, can you still do B and C before April? If not, would you rather have B and C instead of A? If you’re stuck on something for a long period of time, that means there are other things you’re not getting done.
+
+> **Is it really worth it?** Is what you’re doing really worth it? Is this meeting worth pulling six people off their work for an hour? Is it worth pulling an all-nighter tonight, or could you just finish it up tomorrow? Is it worth getting all stressed out over a press release from a competitor? Is it worth spending your money on advertising? Determine the real value of what you’re about to do before taking the plunge.
+
+Keep asking yourself (and others) the questions listed above. You don’t need to make it a formal process, but don’t let it slide, either.
+Also, don’t be timid about your conclusions. Sometimes abandoning what you’re working on is the right move, even if you’ve already put in a lot of effort. Don’t throw good time after bad work.
