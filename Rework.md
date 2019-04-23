@@ -293,3 +293,66 @@ It’s easy to put your head down and just work on what you think needs to be do
 
 Keep asking yourself (and others) the questions listed above. You don’t need to make it a formal process, but don’t let it slide, either.
 Also, don’t be timid about your conclusions. Sometimes abandoning what you’re working on is the right move, even if you’ve already put in a lot of effort. Don’t throw good time after bad work.
+
+### Productivity interruption
+
+**_Interruption is the enemy of productivity_**
+
+If you’re constantly staying late and working weekends, it’s not because there’s too much work to be done. It’s because you’re not getting enough done at work. And the reason is interruptions.
+
+Think about it: When do you get most of your work done? If you’re like most people, it’s at night or early in the morning. It’s no coincidence that these are the times when nobody else is around.
+
+At 2 p.m., people are usually in a meeting or answering e-mail or chatting with colleagues. Those taps on the shoulder and little impromptu get-togethers may seem harmless, but they’re actually corrosive to productivity. Interruption is not collaboration, it’s just interruption. And when you’re interrupted, you’re not getting work done.
+
+Interruptions break your workday into a series of work moments. Forty-five minutes and then you have a call.
+
+Fifteen minutes and then you have lunch. An hour later, you have an afternoon meeting. Before you know it, it’s five o’clock, and you’ve only had a couple uninterrupted hours to get your work done. You can’t get meaningful things done when you’re constantly going start, stop, start, stop.
+
+Instead, you should get in the alone zone. Long stretches of alone time are when you’re most productive. When you don’t have to mind-shift between various tasks, you get a boatload done. (Ever notice how much work you get done on a plane since you’re offline and there are zero outside distractions?)
+
+Getting into that zone takes time and requires avoiding interruptions. It’s like REM sleep: You don’t just go directly into REM sleep. You go to sleep first and then make your way to REM. Any interruptions force you to start over. And just as REM is when the real sleep magic happens, the alone zone is where the real productivity magic happens.
+
+Your alone zone doesn’t have to be in the wee hours, though. You can set up a rule at work that half the day is set aside for alone time. Decree that from 10 a.m. to 2 p.m., people can’t talk to each other (except during lunch). Or make the first or last half of the day your alone-time period. Or instead of casual Fridays, try no-talk Thursdays. Just make sure this period is unbroken in order to avoid productivity-zapping interruptions.
+
+And go all the way with it. A successful alone-time period means letting go of communication addiction. During alone time, give up instant messages, phone calls, e-mail, and meetings. Just shut up and get to work.
+
+You’ll be surprised how much more you get done.
+Also, when you do collaborate, try to use passive communication tools, like e-mail, that don’t require an instant reply, instead of interruptive ones, like phone calls and face-to-face meetings. That way people can respond when it’s convenient for them, instead of being forced to drop everything right away.
+
+Your day is under siege by interruptions. It’s on you to fight back.
+
+### Meetings
+
+**_Meetings are toxic_**
+
+-   The worst interruptions of all are meetings. Here’s why:
+-   They’re usually about words and abstract concepts, not real things.
+-   They usually convey an abysmally small amount of information per minute.
+-   They drift off-subject easier than a Chicago cab in a snowstorm.
+-   They require thorough preparation that most people don’t have time for.
+-   They frequently have agendas so vague that nobody is really sure of the goal.
+-   They often include at least one moron who inevitably gets his turn to waste everyone’s time with nonsense.
+-   Meetings procreate. One meeting leads to another meeting leads to another …
+
+It’s also unfortunate that meetings are typically scheduled like TV shows. You set aside thirty minutes or an hour because that’s how scheduling software works (you’ll never see anyone schedule a seven-minute meeting with Outlook). Too bad. If it only takes seven minutes to accomplish a meeting’s goal, then that’s all the time you should spend. Don’t stretch seven into thirty.
+
+When you think about it, the true cost of meetings is staggering. Let’s say you’re going to schedule a meeting that lasts one hour, and you invite ten people to attend. That’s actually a ten-hour meeting, not a one-hour meeting. You’re trading ten hours of productivity for one hour of meeting time. And it’s probably more like fifteen hours, because there are mental switching costs that come with stopping what you’re doing, going somewhere else to meet, and then resuming what you were doing beforehand.
+
+Is it ever OK to trade ten or fifteen hours of productivity for one hour of meeting? Sometimes, maybe. But that’s a pretty hefty price to pay. Judged on a pure cost basis, meetings of this size quickly become liabilities, not assets. Think about the time you’re actually losing and ask yourself if it’s really worth it.
+
+If you decide you absolutely must get together, try to make your meeting a productive one by sticking to these simple rules:
+
+-   Set a timer. When it rings, meeting’s over. Period.
+-   Invite as few people as possible.
+-   Always have a clear agenda.
+-   Begin with a specific problem.
+-   Meet at the site of the problem instead of a conference room. Point to real things and suggest real changes.
+-   End with a solution and make someone responsible for implementing it.
+
+### Good enough is fine
+
+**_Good enough is fine_**
+
+Problems can usually be solved with simple, mundane solutions. That means there’s no glamorous work. You don’t get to show off your amazing skills. You just build something that gets the job done and then move on. This approach may not earn you oohs and aahs, but it lets you get on with it.
+
+When good enough gets the job done, go for it. It’s way better than wasting resources or, even worse, doing nothing because you can’t afford the complex solution. And remember, you can usually turn good enough into great later.
