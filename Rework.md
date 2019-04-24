@@ -356,3 +356,26 @@ If you decide you absolutely must get together, try to make your meeting a produ
 Problems can usually be solved with simple, mundane solutions. That means there’s no glamorous work. You don’t get to show off your amazing skills. You just build something that gets the job done and then move on. This approach may not earn you oohs and aahs, but it lets you get on with it.
 
 When good enough gets the job done, go for it. It’s way better than wasting resources or, even worse, doing nothing because you can’t afford the complex solution. And remember, you can usually turn good enough into great later.
+
+### Quick Wins
+
+**_Quick Wins_**
+
+The longer something takes, the less likely it is that you’re going to finish it.
+Excitement comes from doing something and then letting customers have at it. Planning a menu for a year is boring. Getting the new menu out, serving the food, and getting feedback is exciting. So don’t wait too long—you’ll smother your sparks if you do.
+
+If you absolutely have to work on long-term projects, try to dedicate one day a week (or every two weeks) to small victories that generate enthusiasm. Small victories let you celebrate and release good news. And you want a steady stream of good news. When there’s something new to announce every two weeks, you energize your team and give your customers something to be excited about.
+
+So ask yourself, “What can we do in two weeks?” And then do it. Get it out there and let people use it, taste it, play it, or whatever. The quicker it’s in the hands of customers, the better off you’ll be.
+
+### Don't be a hero
+
+**_Don't be a hero_**
+
+Keep in mind that the obvious solution might very well be quitting. People automatically associate quitting with failure, but sometimes that’s exactly what you should do. If you already spent too much time on something that wasn’t worth it, walk away. You can’t get that time back. The worst thing you can do now is waste even more time.
+
+### Go to sleep
+
+**_Go to sleep_**
+
+Forgoing sleep is a bad idea. Sure, you get those extra hours right now, but you pay in spades later: You destroy your creativity, morale, and attitude.
