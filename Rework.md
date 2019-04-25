@@ -379,3 +379,40 @@ Keep in mind that the obvious solution might very well be quitting. People autom
 **_Go to sleep_**
 
 Forgoing sleep is a bad idea. Sure, you get those extra hours right now, but you pay in spades later: You destroy your creativity, morale, and attitude.
+
+### Your estimates
+
+**_Your estimates suck_**
+
+We’re all terrible estimators. We think we can guess how long something will take, when we really have no idea. We see everything going according to a best-case scenario, without the delays that inevitably pop up. Reality never sticks to best-case scenarios.
+
+Break the big thing into smaller things. The smaller it is, the easier it is to estimate. You’re probably still going to get it wrong, but you’ll be a lot less wrong than if you estimated a big project. If something takes twice as long as you expected, better to have it be a small project that’s a couple weeks over rather than a long one that’s a couple months over.
+
+Keep breaking your time frames down into smaller chunks. Instead of one twelve-week project, structure it as twelve one-week projects. Instead of guesstimating at tasks that take thirty hours or more, break them down into more realistic six-to-ten-hour chunks. Then go one step at a time.
+
+### Long lists don't get done
+
+**_Long lists don't get done_**
+
+Start making smaller to-do lists too. Long lists collect dust. When’s the last time you finished a long list of things?
+
+Long lists are guilt trips. The longer the list of unfinished items, the worse you feel about it. And at a certain point, you just stop looking at it because it makes you feel bad. Then you stress out and the whole thing turns into a big mess.
+
+There’s a better way. Break that long list down into a bunch of smaller lists.
+For example, break a single list of a hundred items into ten lists of ten items. That means when you finish an item on a list, you’ve completed 10 percent of that list, instead of 1 percent.
+
+Yes, you still have the same amount of stuff left to do. But now you can look at the small picture and find satisfaction, motivation, and progress. That’s a lot better than staring at the huge picture and being terrified and demoralized.
+
+Whenever you can, divide problems into smaller and smaller pieces until you’re able to deal with them completely and quickly. Simply rearranging your tasks this way can have an amazing impact on your productivity and motivation.
+
+And a quick suggestion about prioritization: Don’t prioritize with numbers or labels. Avoid saying, “This is high priority, this is low priority.” Likewise, don’t say, This is a three, this is a two, this is a one, this is a three,” etc. Do that and you’ll almost always end up with a ton of really high-priority things. That’s not really prioritizing.
+
+Instead, prioritize visually. Put the most important thing at the top. When you’re done with that, the next thing on the list becomes the next most important thing. That way you’ll only have a single next most important thing to do at a time. And that’s enough.
+
+### Make ~~Big~~ Tiny Decisions
+
+**_Make tiny decisions_**
+
+Big decisions are hard to make and hard to change. And once you make one, the tendency is to continue believing you made the right decision, even if you didn’t. You stop being objective.
+
+Instead, make choices that are small enough that they’re effectively temporary. When you make tiny decisions, you can’t make big mistakes. These small decisions mean you can afford to change. There’s no big penalty if you mess up. You just fix it.
