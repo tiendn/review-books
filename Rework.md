@@ -416,3 +416,31 @@ Instead, prioritize visually. Put the most important thing at the top. When you�
 Big decisions are hard to make and hard to change. And once you make one, the tendency is to continue believing you made the right decision, even if you didn’t. You stop being objective.
 
 Instead, make choices that are small enough that they’re effectively temporary. When you make tiny decisions, you can’t make big mistakes. These small decisions mean you can afford to change. There’s no big penalty if you mess up. You just fix it.
+
+## Chapter: Competitors
+
+### Don't Copy
+
+**_Don't copy_**
+
+Sometimes copying can be part of the learning process
+
+That’s a formula for failure, though. The problem with this sort of copying is it skips understanding—and understanding is how you grow. You have to understand why some thing works or why something is the way it is. When you just copy and paste, you miss that. You just repurpose the last layer instead of understanding all the layers underneath.
+
+### Pour yourself into your product
+
+**_Decommoditize your product_**
+
+If you’re successful, people will try to copy what you do. It’s just a fact of life. But there’s a great way to protect yourself from copycats: Make you part of your product or service. Inject what’s unique about the way you think into what you sell. Decommoditize your product. Make it something no one else can offer.
+
+Look at Zappos.com, a billion-dollar online shoe retailer. A pair of sneakers from Zappos is the same as a pair from Foot Locker or any other retailer. But Zappos sets itself apart by injecting CEO Tony Hsieh’s obsession with customer service into everything it does.
+
+Pour yourself into your product and everything around your product too: how you sell it, how you support it, how you explain it, and how you deliver it. Competitors can never copy the you in your product.
+
+### Pick a fight
+
+**_Pick a fight_**
+
+If you think a competitor sucks, say so. When you do that, you’ll find that others who agree with you will rally to your side.
+
+Having an enemy gives you a great story to tell customers, too. Taking a stand always stands out. People get stoked by conflict. They take sides. Passions are ignited. And that’s a good way to get people to take notice.
