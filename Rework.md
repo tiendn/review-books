@@ -444,3 +444,39 @@ Pour yourself into your product and everything around your product too: how you 
 If you think a competitor sucks, say so. When you do that, you’ll find that others who agree with you will rally to your side.
 
 Having an enemy gives you a great story to tell customers, too. Taking a stand always stands out. People get stoked by conflict. They take sides. Passions are ignited. And that’s a good way to get people to take notice.
+
+### Underdo your competition
+
+**_Underdo your competition_**
+
+Conventional wisdom says that to beat your competitors, you need to one-up them. If they have four features, you need five (or fifteen, or twenty-five). If they’re spending $20,000, you need to spend $30,000. If they have fifty employees, you need a hundred.
+
+This sort of one-upping, Cold War mentality is a dead end. When you get suckered into an arms race, you wind up in a never-ending battle that costs you massive amounts of money, time, and drive. And it forces you to constantly be on the defensive, too. Defensive companies can’t think ahead; they can only think behind. They don’t lead; they follow.
+
+So what do you do instead? Do less than your competitors to beat them. Solve the simple problems and leave the hairy, difficult, nasty problems to the competition. Instead of one-upping, try one-downing. Instead of outdoing, try underdoing.
+
+### Focus on you instead of they
+
+**_Who cares what they're doing?_**
+
+In the end, it’s not worth paying much attention to the competition anyway. Why not? Because worrying about the competition quickly turns into an obsession. What are they doing right now? Where are they going next? How should we react?
+
+Every little move becomes something to be analyzed. And that’s a terrible mind-set. It leads to overwhelming stress and anxiety. That state of mind is bad soil for growing anything.
+
+It’s a pointless exercise anyway. The competitive landscape changes all the time. Your competitor tomorrow may be completely different from your competitor today. It’s out of your control. What’s the point of worrying about things you can’t control?
+
+Focus on yourself instead. What’s going on in here is way more important than what’s going on out there. When you spend time worrying about someone else, you can’t spend that time improving yourself.
+
+Focus on competitors too much and you wind up diluting your own vision. Your chances of coming up with something fresh go way down when you keep feeding your brain other people’s ideas. You become reactionary instead of visionary. You wind up offering your competitor’s products with a different coat of paint.
+
+## Chapter Evolution
+
+### Say No
+
+**_Say no by default_**
+
+It’s so easy to say yes. Yes to another feature, yes to an overly optimistic deadline, yes to a mediocre design. Soon, the stack of things you’ve said yes to grows so tall you can’t even see the things you should really be doing.
+
+Start getting into the habit of saying no—even to many of your best ideas. Use the power of no to get your priorities straight. You rarely regret saying no. But you often wind up regretting saying yes.
+
+Your goal is to make sure your product stays right for you. You’re the one who has to believe in it most. That way, you can say, “I think you’ll love it because I love it."
