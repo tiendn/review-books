@@ -512,3 +512,40 @@ How should you keep track of what customers want? Don’t. Listen, but then forg
 There’s no need for a spreadsheet, database, or filing system. The requests that really matter are the ones you’ll hear over and over. After a while, you won’t be able to forget them. Your customers will be your memory. They’ll keep reminding you. They’ll show you which things you truly need to worry about.
 
 If there’s a request that you keep forgetting, that’s a sign that it isn’t very important. The really important stuff doesn’t go away.
+
+## Chapter Promotion
+
+### Welcome obscurity
+
+**_Welcome obscurity_**
+
+No one knows who you are right now. And that’s just fine. Being obscure is a great position to be in. Be happy you’re in the shadows.
+
+Use this time to make mistakes without the whole world hearing about them. Keep tweaking. Work out the kinks. Test random ideas. Try new things. No one knows you, so it’s no big deal if you mess up. Obscurity helps protect your ego and preserve your confidence.
+
+### Audience
+
+**_Build a audience_**
+
+All companies have customers. Lucky companies have fans. But the most fortunate companies have audiences. An audience can be your secret weapon.
+
+A lot of businesses still spend big bucks to reach people. Every time they want to say something, they dip into their budgets, pull out a huge wad of cash, and place some ads. But this approach is both expensive and unreliable. As they say, you waste half of your ad budget—you just don’t know which half.
+
+Today’s smartest companies know better. Instead of going out to reach people, you want people to come to you. An audience returns often—on its own—to see what you have to say. This is the most receptive group of customers and potential customers you’ll ever have.
+
+Over the past ten years, we’ve built an audience of more than a hundred thousand daily readers for our Signal vs. Noise blog. Every day they come back to see what we have to say. We may talk about design or business or software or psychology or usability or our industry at large. Whatever it is, these people are interested enough to come back to hear more. And if they like what we have to say, they’ll probably also like what we have to sell.
+
+How much would it cost us to reach those hundred thousand people every day the old-fashioned way? Hundreds of thousands? Millions? And how would we have done it? Running ads? Buying radio spots? Sending direct mail?
+When you build an audience, you don’t have to buy people’s attention—they give it to you. This is a huge advantage.
+
+So build an audience. Speak, write, blog, tweet, make videos—whatever. Share information that’s valuable and you’ll slowly but surely build a loyal audience. Then when you need to get the word out, the right people will already be listening.
+
+### Don't out spend & don't out teach
+
+**_Out-teach your competition_**
+
+You can advertise. You can hire salespeople. You can sponsor events. But your competitors are doing the same things. How does that help you stand out?
+
+Instead of trying to outspend, outsell, or outsponsor competitors, try to out-teach them. Teaching probably isn’t something your competitors are even thinking about. Most businesses focus on selling or servicing, but teaching never even occurs to them.
+
+Teach and you’ll form a bond you just don’t get from traditional marketing tactics. Buying people’s attention with a magazine or online banner ad is one thing. Earning their loyalty by teaching them forms a whole different connection. They’ll trust you more. They’ll respect you more. Even if they don’t use your product, they can still be your fans.
