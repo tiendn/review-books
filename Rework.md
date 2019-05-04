@@ -480,3 +480,35 @@ It’s so easy to say yes. Yes to another feature, yes to an overly optimistic d
 Start getting into the habit of saying no—even to many of your best ideas. Use the power of no to get your priorities straight. You rarely regret saying no. But you often wind up regretting saying yes.
 
 Your goal is to make sure your product stays right for you. You’re the one who has to believe in it most. That way, you can say, “I think you’ll love it because I love it."
+
+### Let your customers outgrow you
+
+**_Let your customers outgrow you_**
+
+People and situations change. You can’t be everything to everyone. Companies need to be true to a type of customer more than a specific individual customer with changing needs.
+
+### Revolutionary! New! Hot! Amazing! Faster! ... don't confuse enthusiasm with priority ... useful
+
+**_Don’t confuse enthusiasm with priority_**
+
+Coming up with a great idea gives you a rush. You start imagining the possibilities and the benefits. And of course, you want all that right away. So you drop everything else you’re working on and begin pursuing your latest, greatest idea.
+
+Bad move. The enthusiasm you have for a new idea is not an accurate indicator of its true worth. What seems like a sure-fire hit right now often gets downgraded to just a “nice to have” by morning. And “nice to have” isn’t worth putting everything else on hold.
+
+We have ideas for new features all the time. On top of that, we get dozens of interesting ideas from customers every day too. Sure, it’d be fun to immediately chase all these ideas to see where they lead. But if we did that, we’d just wind up running on a treadmill and never get anywhere.
+
+So let your latest grand ideas cool off for a while first. By all means, have as many great ideas as you can. Get excited about them. Just don’t act in the heat of the moment. Write them down and park them for a few days. Then, evaluate their actual priority with a calm mind.
+
+### At home good
+
+**_Be at home good_**
+
+When you get the product home, you’re actually more impressed with it than you were at the store. You live with it and grow to like it more and more. And you tell your friends, too.
+
+### Don't write it down
+
+How should you keep track of what customers want? Don’t. Listen, but then forget what people said. Seriously.
+
+There’s no need for a spreadsheet, database, or filing system. The requests that really matter are the ones you’ll hear over and over. After a while, you won’t be able to forget them. Your customers will be your memory. They’ll keep reminding you. They’ll show you which things you truly need to worry about.
+
+If there’s a request that you keep forgetting, that’s a sign that it isn’t very important. The really important stuff doesn’t go away.
