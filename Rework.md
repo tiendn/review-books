@@ -549,3 +549,23 @@ You can advertise. You can hire salespeople. You can sponsor events. But your co
 Instead of trying to outspend, outsell, or outsponsor competitors, try to out-teach them. Teaching probably isn’t something your competitors are even thinking about. Most businesses focus on selling or servicing, but teaching never even occurs to them.
 
 Teach and you’ll form a bond you just don’t get from traditional marketing tactics. Buying people’s attention with a magazine or online banner ad is one thing. Earning their loyalty by teaching them forms a whole different connection. They’ll trust you more. They’ll respect you more. Even if they don’t use your product, they can still be your fans.
+
+### Emulate chefs
+
+**_Emulate chefs_**
+
+As a business owner, you should share everything you know too. This is anathema to most in the business world. Businesses are usually paranoid and secretive. They think they have proprietary this and competitive advantage that. Maybe a rare few do, but most don’t. And those that don’t should stop acting like those that do. Don’t be afraid of sharing.
+
+### Go behind the scenes
+
+**_Go behind the scenes_**
+
+Give people a backstage pass and show them how your business works. Imagine that someone wanted to make a reality show about your business. What would they share? Now stop waiting for someone else and do it yourself.
+
+### Fake
+
+**_Nobody likes plastic flowers_**
+
+Don’t be afraid to show your flaws. Imperfections are real and people respond to real. It’s why we like real flowers that wilt, not perfect plastic ones that never change. Don’t worry about how you’re supposed to sound and how you’re supposed to act. Show the world what you’re really like, warts and all.
+
+So talk like you really talk. Reveal things that others are unwilling to discuss. Be upfront about your shortcomings. Show the latest version of what you’re working on, even if you’re not done yet. It’s OK if it’s not perfect. You might not seem as professional, but you will seem a lot more genuine.
