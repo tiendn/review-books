@@ -569,3 +569,73 @@ Give people a backstage pass and show them how your business works. Imagine that
 Don’t be afraid to show your flaws. Imperfections are real and people respond to real. It’s why we like real flowers that wilt, not perfect plastic ones that never change. Don’t worry about how you’re supposed to sound and how you’re supposed to act. Show the world what you’re really like, warts and all.
 
 So talk like you really talk. Reveal things that others are unwilling to discuss. Be upfront about your shortcomings. Show the latest version of what you’re working on, even if you’re not done yet. It’s OK if it’s not perfect. You might not seem as professional, but you will seem a lot more genuine.
+
+### Press releases are spam
+
+**_Press releases are spam_**
+...
+
+### Niche media over mass media
+
+**_Forget about the Wall Street Journal_**
+
+
+### Emulate drug dealer
+
+**_Drug dealers get it right_**
+
+Make your product so good, so addictive, so “can’t miss” that giving customers a small, free taste makes them come back with cash in hand.
+
+This will force you to make something about your product bite-size. You want an easily digestible introduction to what you sell. This gives people a way to try it without investing any money or a lot of time.
+
+### Everything is marketing
+
+**_Marketing is not a department_**
+
+Marketing is something everyone in your company is doing 24/7/365.
+
+Just as you cannot not communicate, you cannot not market
+
+ - Every time you answer the phone, it’s marketing.
+ - Every time you send an e-mail, it’s marketing.
+ - Every time someone uses your product, it’s marketing.
+ - Every word you write on your Web site is marketing.
+ - If you build software, every error message is marketing.
+ - If you’re in the restaurant business, the after-dinner mint is marketing.
+ - If you’re in the retail business, the checkout counter is marketing.
+ - If you’re in a service business, your invoice is marketing.
+
+Recognize that all of these little things are more important than choosing which piece of swag to throw into a conference goodie bag. Marketing isn’t just a few individual events. It’s the sum total of everything you do.
+
+### Overnight sensation
+
+**_The myth of the overnight sensation**
+
+You will not be a big hit right away. You will not get rich quick. You are not so special that everyone else will instantly pay attention. No one cares about you. At least not yet. Get used to it.
+
+You know those overnight-success stories you’ve heard about? It’s not the whole story. Dig deeper and you’ll usually find people who have busted their asses for years to get into a position where things could take off. And on the rare occasion that instant success does come along, it usually doesn’t last—there’s no foundation there to support it.
+
+Trade the dream of overnight success for slow, measured growth. It’s hard, but you have to be patient. You have to grind it out. You have to do it for a long time before the right people notice.
+
+You may think you can speed up the process by hiring a PR firm. Don’t bother. You’re just not ready for that yet. For one thing, it’s too expensive. Good PR firms can cost upward of $10,000 per month. That’s a waste of money right now.
+
+Plus, you’re still just a no-name with a product no one’s ever heard about. Who’s going to write about that? Once you have some customers and a history, you’ll have a story to tell. But just launching isn’t a good story.
+
+And remember, great brands launch without PR campaigns all the time. Starbucks, Apple, Nike, Amazon, Google, and Snapple all became great brands over time, not because of a big PR push upfront.
+
+Start building your audience today. Start getting people interested in what you have to say. And then keep at it. In a few years, you too will get to chuckle when people discuss your “overnight” success.
+
+## Chapter HIRING
+
+### DIY
+
+**_Do it yourself first_**
+
+Never hire anyone to do a job until you’ve tried to do it yourself first. That way, you’ll understand the nature of the work. You’ll know what a job well done looks like. You’ll know how to write a realistic job description and which questions to ask in an interview. You’ll know whether to hire someone full-time or part-time, outsource it, or keep doing it yourself (the last is preferable, if possible).
+
+You’ll also be a much better manager, because you’ll be supervising people who are doing a job you’ve done before. You’ll know when to criticize and when to support.
+At 37signals, we didn’t hire a system administrator until one of us had spent a whole summer setting up a bunch of servers on his own. For the first three years, one of us did all of our customer support. Then we hired a dedicated support person. We ran with the ball as far as we could before handing it off. That way, we knew what we were looking for once we did decide to hire.
+
+You may feel out of your element at times. You might even feel like you suck. That’s all right. You can hire your way out of that feeling or you can learn your way out of it. Try learning first. What you give up in initial execution will be repaid many times over by the wisdom you gain.
+
+Plus, you should want to be intimately involved in all aspects of your business. Otherwise you’ll wind up in the dark, putting your fate solely in the hands of others. That’s dangerous.
