@@ -579,7 +579,6 @@ So talk like you really talk. Reveal things that others are unwilling to discuss
 
 **_Forget about the Wall Street Journal_**
 
-
 ### Emulate drug dealer
 
 **_Drug dealers get it right_**
@@ -596,20 +595,20 @@ Marketing is something everyone in your company is doing 24/7/365.
 
 Just as you cannot not communicate, you cannot not market
 
- - Every time you answer the phone, it’s marketing.
- - Every time you send an e-mail, it’s marketing.
- - Every time someone uses your product, it’s marketing.
- - Every word you write on your Web site is marketing.
- - If you build software, every error message is marketing.
- - If you’re in the restaurant business, the after-dinner mint is marketing.
- - If you’re in the retail business, the checkout counter is marketing.
- - If you’re in a service business, your invoice is marketing.
+-   Every time you answer the phone, it’s marketing.
+-   Every time you send an e-mail, it’s marketing.
+-   Every time someone uses your product, it’s marketing.
+-   Every word you write on your Web site is marketing.
+-   If you build software, every error message is marketing.
+-   If you’re in the restaurant business, the after-dinner mint is marketing.
+-   If you’re in the retail business, the checkout counter is marketing.
+-   If you’re in a service business, your invoice is marketing.
 
 Recognize that all of these little things are more important than choosing which piece of swag to throw into a conference goodie bag. Marketing isn’t just a few individual events. It’s the sum total of everything you do.
 
 ### Overnight sensation
 
-**_The myth of the overnight sensation**
+**\_The myth of the overnight sensation**
 
 You will not be a big hit right away. You will not get rich quick. You are not so special that everyone else will instantly pay attention. No one cares about you. At least not yet. Get used to it.
 
@@ -617,7 +616,7 @@ You know those overnight-success stories you’ve heard about? It’s not the wh
 
 Trade the dream of overnight success for slow, measured growth. It’s hard, but you have to be patient. You have to grind it out. You have to do it for a long time before the right people notice.
 
-You may think you can speed up the process by hiring a PR firm. Don’t bother. You’re just not ready for that yet. For one thing, it’s too expensive. Good PR firms can cost upward of $10,000 per month. That’s a waste of money right now.
+You may think you can speed up the process by hiring a PR firm. Don’t bother. You’re just not ready for that yet. For one thing, it’s too expensive. Good PR firms can cost upward of \$10,000 per month. That’s a waste of money right now.
 
 Plus, you’re still just a no-name with a product no one’s ever heard about. Who’s going to write about that? Once you have some customers and a history, you’ll have a story to tell. But just launching isn’t a good story.
 
@@ -639,3 +638,43 @@ At 37signals, we didn’t hire a system administrator until one of us had spent 
 You may feel out of your element at times. You might even feel like you suck. That’s all right. You can hire your way out of that feeling or you can learn your way out of it. Try learning first. What you give up in initial execution will be repaid many times over by the wisdom you gain.
 
 Plus, you should want to be intimately involved in all aspects of your business. Otherwise you’ll wind up in the dark, putting your fate solely in the hands of others. That’s dangerous.
+
+### Hire when it hurts
+
+**_Don’t hire for pleasure; hire to kill pain._**
+
+Always ask yourself: What if we don’t hire anyone? Is that extra work that’s burdening us really necessary? Can we solve the problem with a slice of software or a change of practice instead? What if we just don’t do it?
+
+Similarly, if you lose someone, don’t replace him immediately. See how long you can get by without that person and that position. You’ll often discover you don’t need as many people as you think.
+
+The right time to hire is when there’s more work than you can handle for a sustained period of time. There should be things you can’t do anymore. You should notice the quality level slipping. That’s when you’re hurting. And that’s when it’s time to hire, not earlier.
+
+### Pass on great people
+
+**_Pass on great people_**
+
+Some companies are addicted to hiring. Some even hire when they aren’t hiring. They’ll hear about someone great and invent a position or title just to lure them in. And there they’ll sit—parked in a position that doesn’t matter, doing work that isn’t important.
+
+Pass on hiring people you don’t need, even if you think that person’s a great catch. You’ll be doing your company more harm than good if you bring in talented people who have nothing important to do.
+
+Problems start when you have more people than you need. You start inventing work to keep everyone busy. Artificial work leads to artificial projects. And those artificial projects lead to real costs and complexity.
+
+Don’t worry about “the one that got away.” It’s much worse to have people on staff who aren’t doing anything meaningful. There’s plenty of talent out there. When you do have a real need, you’ll find someone who fits well.
+
+Great has nothing to do with it. If you don’t need someone, you don’t need someone.
+
+### Hello
+
+**_Strangers at a cooktail party_**
+
+If you go to a cocktail party where everyone is a stranger, the conversation is dull and stiff. You make small talk about the weather, sports, TV shows, etc. You shy away from serious conversations and controversial opinions.
+
+A small, intimate dinner party among old friends is a different story, though. There are genuinely interesting conversations and heated debates. At the end of the night, you feel you actually got something out of it.
+
+Hire a ton of people rapidly and a “strangers at a cocktail party” problem is exactly what you end up with. There are always new faces around, so everyone is unfailingly polite. Everyone tries to avoid any conflict or drama. No one says, “This idea sucks.” People appease instead of challenge.
+
+And that appeasement is what gets companies into trouble. You need to be able to tell people when they’re full of crap. If that doesn’t happen, you start churning out something that doesn’t offend anyone but also doesn’t make anyone fall in love.
+
+You need an environment where everyone feels safe enough to be honest when things get tough. You need to know how far you can push someone. You need to know what people really mean when they say something.
+
+So hire slowly. It’s the only way to avoid winding up at a cocktail party of strangers.
