@@ -678,3 +678,80 @@ And that appeasement is what gets companies into trouble. You need to be able to
 You need an environment where everyone feels safe enough to be honest when things get tough. You need to know how far you can push someone. You need to know what people really mean when they say something.
 
 So hire slowly. It’s the only way to avoid winding up at a cocktail party of strangers.
+
+### Resume
+
+**_Resume are ridiculous_**
+
+We all know resumés are a joke. They’re exaggerations. They’re filled with “action verbs” that don’t mean anything. They list job titles and responsibilities that are vaguely accurate at best. And there’s no way to verify most of what’s on there. The whole thing is a farce.
+
+Worst of all, they’re too easy. Anyone can create a decent-enough resumé. That’s why half-assed applicants love them so much. They can shotgun out hundreds at a time to potential employers. It’s another form of spam. They don’t care about landing your job; they just care about landing any job.
+
+If someone sends out a resumé to three hundred companies, that’s a huge red flag right there. There’s no way that applicant has researched you. There’s no way he knows what’s different about your company.
+
+If you hire based on this garbage, you’re missing the point of what hiring is about. You want a specific candidate who cares specifically about your company, your products, your customers, and your job.
+
+So how do you find these candidates? First step: Check the cover letter. In a cover letter, you get actual communication instead of a list of skills, verbs, and years of irrelevance. There’s no way an applicant can churn out hundreds of personalized letters. That’s why the cover letter is a much better test than a resumé. You hear someone’s actual voice and are able recognize if it’s in tune with you and your company.
+
+Trust your gut reaction. If the first paragraph sucks, the second has to work that much harder. If there’s no hook in the first three, it’s unlikely there’s a match there. On the other hand, if your gut is telling you there’s a chance at a real match, then move on to the interview stage.
+
+### What does 5 years experience mean anyway?
+
+**_GPA's don't matter_**
+
+We’ve all seen job ads that say, “Five years of experience required.” That may give you a number, but it tells you nothing.
+
+Of course, requiring some baseline level of experience can be a good idea when hiring. It makes sense to go after candidates with six months to a year of experience. It takes that long to internalize the idioms, learn how things work, understand the relevant tools, etc.
+
+But after that, the curve flattens out. There’s surprisingly little difference between a candidate with six months of experience and one with six years. The real difference comes from the individual’s dedication, personality, and intelligence.
+
+How do you really measure this stuff anyway? What does five years of experience mean? If you spent a couple of weekends experimenting with something a few years back, can you count that as a year of experience? How is a company supposed to verify these claims? These are murky waters.
+
+How long someone’s been doing it is overrated. What matters is how well they’ve been doing it.
+
+### Forget about formal education
+
+```
+                            I have never let my schooling
+                            interfere with my education.
+
+                                        -— MARK TWAIN
+```
+
+There are plenty of intelligent people who don’t excel in the classroom. Don’t fall into the trap of thinking you need someone from one of the “best” schools in order to get results.
+
+Too much time in academia can actually do you harm.
+
+The pool of great candidates is far bigger than just people who completed college with a stellar GPA. Consider dropouts, people who had low GPAs, community-college students, and even those who just went to high school.
+
+### Delegators are dead weight
+
+**_Everybody works_**
+
+With a small team, you need people who are going to do work, not delegate work. Everyone’s got to be producing. No one can be above the work.
+
+That means you need to avoid hiring delegators, those people who love telling others what to do. Delegators are dead weight for a small team. They clog the pipes for others by coming up with busywork. And when they run out of work to assign, they make up more—regardless of whether it needs to be done.
+
+Delegators love to pull people into meetings, too. In fact, meetings are a delegator’s best friend. That’s where he gets to seem important. Meanwhile, everyone else who attends is pulled away from getting real work done.
+
+### Hire managers of 1
+
+**_Hire managers of 1_**
+
+Managers of one are people who come up with their own goals and execute them. They don’t need heavy direction. They don’t need daily check-ins. They do what a manager would do—set the tone, assign items, determine what needs to get done, etc.—but they do it by themselves and for themselves.
+
+These people free you from oversight. They set their own direction. When you leave them alone, they surprise you with how much they’ve gotten done. They don’t need a lot of hand-holding or supervision.
+
+How can you spot these people? Look at their backgrounds. They have set the tone for how they’ve worked at other jobs. They’ve run something on their own or launched some kind of project.
+
+You want someone who’s capable of building something from scratch and seeing it through. Finding these people frees the rest of your team to work more and manage less.
+
+### Hire the better writer
+
+**_Hire great writers_**
+
+If you are trying to decide among a few people to fill a position, hire the best writer. It doesn’t matter if that person is a marketer, salesperson, designer, programmer, or whatever; their writing skills will pay off.
+
+That’s because being a good writer is about more than writing. Clear writing is a sign of clear thinking. Great writers know how to communicate. They make things easy to understand. They can put themselves in someone else’s shoes. They know what to omit. And those are qualities you want in any candidate.
+
+Writing is making a comeback all over our society. Look at how much people e-mail and text-message now rather than talk on the phone. Look at how much communication happens via instant messaging and blogging. Writing is today’s currency for good ideas.
