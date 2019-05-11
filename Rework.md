@@ -755,3 +755,59 @@ If you are trying to decide among a few people to fill a position, hire the best
 That’s because being a good writer is about more than writing. Clear writing is a sign of clear thinking. Great writers know how to communicate. They make things easy to understand. They can put themselves in someone else’s shoes. They know what to omit. And those are qualities you want in any candidate.
 
 Writing is making a comeback all over our society. Look at how much people e-mail and text-message now rather than talk on the phone. Look at how much communication happens via instant messaging and blogging. Writing is today’s currency for good ideas.
+
+### The best are everywhere
+
+**_The best are everywhere_**
+
+It’s crazy not to hire the best people just because they live far away. Especially now that there’s so much technology out there making it easier to bring everyone together online.
+
+### Test-drive employees
+
+**_Test-drive employees_**
+
+Interviews are only worth so much. Some people sound like pros but don’t work like pros. You need to evaluate the work they can do now, not the work they say they did in the past.
+
+## Chapter Damage Control
+
+### Own your bad news
+
+**_Own your bad news_**
+
+When something goes wrong, someone is going to tell the story. You’ll be better off if it’s you. Otherwise, you create an opportunity for rumors, hearsay, and false information to spread.
+
+When something bad happens, tell your customers (even if they never noticed in the first place). Don’t think you can just sweep it under the rug. You can’t hide anymore. These days, someone else will call you on it if you don’t do it yourself. They’ll post about it online and everyone will know. There are no more secrets.
+
+People will respect you more if you are open, honest, public, and responsive during a crisis. Don’t hide behind spin or try to keep your bad news on the down low. You want your customers to be as informed as possible.
+
+Back in 1989, the Exxon Valdez oil tanker spilled 11 million gallons of oil into Alaska’s Prince William Sound. Exxon made the mistake of waiting a long time before responding to the spill and sending aid to Alaska. Exxon’s chairman failed to go there until two weeks after the spill. The company held news briefings in Valdez, a remote Alaskan town that was difficult for the press to reach. The result: a PR disaster for Exxon that led the public to believe the company was either hiding something or didn’t really care about what had happened.\*
+
+Contrast that Exxon story to the rupture of an Ashland Oil storage tank that spilled oil into a river near Pittsburgh around the same time. Ashland Oil’s chairman, John Hall, went to the scene of the Ashland spill and took charge. He pledged to clean everything up. He visited news bureaus to explain what the company would do and answer any questions. Within a day, he had shifted the story from a rotten-oil-company-does-evil narrative to a good-oil-company-tries-to-clean-up story. †
+
+Here are some tips on how you can own the story:
+
+-   The message should come from the top. The highest-ranking person available should take control in a forceful way.
+-   Spread the message far and wide. Use whatever megaphone you have. Don’t try to sweep it under the rug.
+-   “No comment” is not an option.
+-   Apologize the way a real person would and explain what happened in detail.
+-   Honestly be concerned about the fate of your customers—then prove it.
+
+### Speed changes everything
+
+**_Speed changes everything_**
+
+Getting back to people quickly is probably the most important thing you can do when it comes to customer service. It’s amazing how much that can defuse a bad situation and turn it into a good one.
+
+Customers are so used to canned answers, you can really differentiate yourself by answering thoughtfully and showing that you’re listening. And even if you don’t have a perfect answer, say something. “Let me do some research and get back to you” can work wonders.
+
+### I'm sorry.
+
+**_How to say you're sorry_**
+
+One of the worst ways is the non-apology apology, which sounds like an apology but doesn’t really accept any blame.
+
+A good apology accepts responsibility. It has no conditional if phrase attached. It shows people that the buck stops with you. And then it provides real details about what happened and what you’re doing to prevent it from happening again. And it seeks a way to make things right.
+
+The number-one principle to keep in mind when you apologize: How would you feel about the apology if you were on the other end? If someone said those words to you, would you believe them?
+
+Keep in mind that you can’t apologize your way out of being an ass. Even the best apology won’t rescue you if you haven’t earned people's trust.
