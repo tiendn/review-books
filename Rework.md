@@ -811,3 +811,122 @@ A good apology accepts responsibility. It has no conditional if phrase attached.
 The number-one principle to keep in mind when you apologize: How would you feel about the apology if you were on the other end? If someone said those words to you, would you believe them?
 
 Keep in mind that you can’t apologize your way out of being an ass. Even the best apology won’t rescue you if you haven’t earned people's trust.
+
+### Everyone on the front lines
+
+**_Put everyone on the front lines_**
+
+A lot of companies have a similar front-of-house/back-of-house split. The people who make the product work in the “kitchen” while support handles the customers. Unfortunately, that means the product’s chefs never get to directly hear what customers are saying. Too bad. Listening to customers is the best way to get in tune with a product’s strengths and weaknesses.
+
+Everyone on your team should be connected to your customers—maybe not every day, but at least a few times throughout the year. That’s the only way your team is going to feel the hurt your customers are experiencing. It’s feeling the hurt that really motivates people to fix the problem. And the flip side is true too: The joy of happy customers or ones who have had a problem solved can also be wildly motivating.
+
+### Take a deep breath
+
+**_Take a deep breath_**
+
+People are creatures of habit. That’s why they react to change in such a negative way. They’re used to using something in a certain way and any change upsets the natural order of things. So they push back. They complain. They demand that you revert to the way things were.
+
+But that doesn’t mean you should act. Sometimes you need to go ahead with a decision you believe in, even if it’s unpopular at first.
+
+People often respond before they give a change a fair chance. Sometimes that initial negative reaction is more of a primal response. That’s why you’ll sometimes hear things like, “It’s the worst thing I’ve ever seen.” No, it’s not. It’s a minor change. Come on.
+
+So when people complain, let things simmer for a while. Let them know you’re listening. Show them you’re aware of what they’re saying. Let them know you understand their discontent. But explain that you’re going to let it go for a while and see what happens. You’ll probably find that people will adjust eventually. They may even wind up liking the change more than the old way, once they get used to it.
+
+## Chapter Culture
+
+### Culture is the by-product of consistent behavior
+
+**_You don't create a culture_**
+
+You don’t create a culture. It happens. This is why new companies don’t have a culture. Culture is the byproduct of consistent behavior.
+
+### Decisions are temporary
+
+**_Decisions are temporary_**
+
+“But what if …?” “What happens when …?” “Don’t we need to plan for …?”
+Don’t make up problems you don’t have yet. It’s not a problem until it’s a real problem. Most of the things you worry about never happen anyway.
+
+Besides, the decisions you make today don’t need to last forever.
+
+### Build a rockstar environment
+
+**_Skip the rock stars_**
+
+Instead of thinking about how you can land a roomful of rock stars, think about the room instead.
+
+Rockstar environments develop out of trust, autonomy, and responsibility. They’re a result of giving people the privacy, workspace, and tools they deserve. Great environments show respect for the people who do the work and how they do it.
+
+### They're not thirteen
+
+**_They're not thirteen_**
+
+How much does it cost to set up surveillance software? How much time do IT employees waste on monitoring other employees instead of working on a project that’s actually valuable? How much time do you waste writing rule books that never get read? Look at the costs and you quickly realize that failing to trust your employees is awfully expensive.
+
+### Send people home at five
+
+**_Send people home at five_**
+
+As the saying goes, “If you want something done, ask the busiest person you know.” You want busy people. People who have a life outside of work. People who care about more than one thing. You shouldn’t expect the job to be someone’s entire life—at least not if you want to keep them around for a long time.
+
+### Policy
+
+**_Don't scar on the first cut_**
+
+Policies are organizational scar tissue. They are codified overreactions to situations that are unlikely to happen again. They are collective punishment for the misdeeds of an individual.
+
+Policies are only meant for situations that come up over and over again.
+
+### Sound like you
+
+Don’t be afraid to be you.
+
+### Need, can't easy, fast
+
+**_Four-letter words_**
+
+There are four-letter words you should never use in business. They’re not fuck or shit. They’re need, must, can’t, easy, just, only, and fast. These words get in the way of healthy communication. They are red flags that introduce animosity, torpedo good discussions, and cause projects to be late.
+When you use these four-letter words, you create a black-and-white situation. But the truth is rarely black and white. So people get upset and problems ensue. Tension and conflict are injected unnecessarily.
+
+Here’s what’s wrong with some of them:
+
+-   Need. Very few things actually need to get done. Instead of saying “need,” you’re better off saying “maybe” or “What do you think about this?” or “How does this sound?” or “Do you think we could get away with that?”
+
+-   Can’t. When you say “can’t,” you probably can. Sometimes there are even opposing can’ts: “We can’t launch it like that, because it’s not quite right” versus “We can’t spend any more time on this because we have to launch.” Both of those statements can’t be true. Or wait a minute, can they?
+
+-   Easy. Easy is a word that’s used to describe other people’s jobs. “That should be easy for you to do, right?” But notice how rarely people describe their own tasks as easy. For you, it’s “Let me look into it”—but for others, it’s “Get it done.”
+
+These four-letter words often pop up during debates (and also watch out for their cousins: everyone, no one, always, and never). Once uttered, they make it tough to find a solution. They box you into a corner by pitting two absolutes against each other. That’s when head-butting occurs. You squeeze out any middle ground.
+And these words are especially dangerous when you string them together: “We need to add this feature now. We can’t launch without this feature. Everyone wants it. It’s only one little thing so it will be easy. You should be able to get it in there fast!” Only thirty-six words, but a hundred assumptions. That’s a recipe for disaster.
+
+### ASAP (as soon as possible)
+
+**_ASAP is poison_**
+
+Stop saying ASAP. We get it. It’s implied. Everyone wants things done as soon as they can be done.
+
+When you turn into one of these people who adds ASAP to the end of every request, you’re saying everything is high priority. And when everything is high priority, nothing is. (Funny how everything is a top priority until you actually have to prioritize things.)
+
+ASAP is inflationary. It devalues any request that doesn’t say ASAP. Before you know it, the only way to get anything done is by putting the ASAP sticker on it.
+
+Most things just don’t warrant that kind of hysteria. If a task doesn’t get done this very instant, nobody is going to die. Nobody’s going to lose their job. It won’t cost the company a ton of money. What it will do is create artificial stress, which leads to burnout and worse.
+
+So reserve your use of emergency language for true emergencies. The kind where there are direct, measurable consequences to inaction. For everything else, chill out.
+
+## Chapter Conclusion
+
+### Inspiration
+
+**_Inspiration is perishable_**
+
+We all have ideas. Ideas are immortal. They last forever.
+
+What doesn’t last forever is inspiration. Inspiration is like fresh fruit or milk: It has an expiration date.
+
+If you want to do something, you’ve got to do it now. You can’t put it on a shelf and wait two months to get around to it. You can’t just say you’ll do it later. Later, you won’t be pumped up about it anymore.
+
+If you’re inspired on a Friday, swear off the weekend and dive into the project. When you’re high on inspiration, you can get two weeks of work done in twenty-four hours. Inspiration is a time machine in that way.
+
+Inspiration is a magical thing, a productivity multiplier, a motivator. But it won’t wait for you. Inspiration is a now thing. If it grabs you, grab it right back and put it to work.
+
+---
